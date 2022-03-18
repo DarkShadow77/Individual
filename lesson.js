@@ -13,7 +13,7 @@ let lessons = [
         'location': "New York",
         'price': 30,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/English.jpg",
     },
     {
         'id': 3,
@@ -21,7 +21,7 @@ let lessons = [
         'location': "London",
         'price': 75,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/Physics.png",
     },
     {
         'id': 4,
@@ -29,7 +29,7 @@ let lessons = [
         'location': "England",
         'price': 60,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/Chemistry.png",
     },
     {
         'id': 5,
@@ -37,7 +37,7 @@ let lessons = [
         'location': "Russia",
         'price': 40,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/Biology.jpg",
     },
     {
         'id': 6,
@@ -45,7 +45,7 @@ let lessons = [
         'location': "Colombia",
         'price': 30,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/History.png",
     },
     {
         'id': 7,
@@ -53,7 +53,7 @@ let lessons = [
         'location': "London",
         'price': 24,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/Geography.png",
     },
     {
         'id': 8,
@@ -61,7 +61,7 @@ let lessons = [
         'location': "Mosko",
         'price': 35,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/Music.png",
     },
     {
         'id': 9,
