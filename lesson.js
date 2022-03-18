@@ -69,7 +69,7 @@ let lessons = [
         'location': "Hawaii",
         'price': 53,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/Art.png",
     },
     {
         'id': 10,
@@ -77,6 +77,6 @@ let lessons = [
         'location': "London",
         'price': 40,
         'Numberofspaces': 5, 
-        'image': "images/math.png",
+        'image': "images/Economics.jpg",
     },
 ]
